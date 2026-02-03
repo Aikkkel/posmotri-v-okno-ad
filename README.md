@@ -1,1 +1,1 @@
-https://github.com/Aikkkel/ono-tebe-nado-ad
+https://github.com/Aikkkel/posmotri-v-okno-ad.git
